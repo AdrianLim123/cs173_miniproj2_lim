@@ -1,0 +1,8 @@
+[[contract address]]
+T1MCtJf69KgtChNAMM6pzpFQ4TtMLMgagPT
+
+[[counterparty secret key]]
+edskS59WGpb1KxbPNRB6V8rLbwCjcQriBwiZwjujAZCHYZAAjKx7wSwDTxqgQs5wqVt6jaK5gNMPTcPsZBDtRGvKb3g3uxjnEN
+
+[[admin and owner secret key]]
+edskRnESzVbdU7NcFFoUqk3TVbfPNHTMUG8Q93GuF7yppDf4oQJC4RBsjcXzfJgEgF6eNe7jmzkAgQQpz7z9ohfg9HVu5oUxEY
